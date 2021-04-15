@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Braian-Braga-Continuada-2-App-Yoshi</string>
+    <string name="ctn_primeiro_id">Enter the first dog identifier</string>
+    <string name="ctn_segundo_id">Enter the second dog identifier</string>
+    <string name="ctn_comprar_dog">buy dogs</string>
+</resources>

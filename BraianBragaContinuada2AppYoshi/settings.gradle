@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Braian-Braga-Continuada-2-App-Yoshi"
